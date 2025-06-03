@@ -28,6 +28,14 @@ This is a simple clone of the Amazon landing page, built using only HTML and CSS
 * CSS3 (no frameworks)
 
 
+
+  ## 📹 Demo
+
+
+
+[Project Demo](https://drive.google.com/file/d/1ZxrvZql0c5YEEwXjjlJJZ6V-yHA3DD2F/view?usp=drive_link)
+
+
 ##
 
 🎯 Purpose
