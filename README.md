@@ -1,42 +1,38 @@
-# Amazon-Clone
+🛒 Amazon Landing Page Clone 
+#
+This project is a responsive clone of the Amazon landing page, crafted entirely with HTML5 and CSS3. The primary goal was to sharpen front-end development skills by recreating the layout and visual design of a real-world e-commerce homepage — without using any frameworks or JavaScript.
 
-This is a simple clone of the Amazon landing page, built using only HTML and CSS. The goal of this project was to practice front-end development by recreating the structure and layout of a real-world e-commerce homepage.
+✨ Features
+✅ Fully responsive layout for all screen sizes
+✅ Sticky header with Amazon-style logo and navigation bar
+✅ Hero section with promotional banner
+✅ Product category cards with clean, CSS-based design
+✅ Footer section with styled links (non-functional, for layout only)
+##
+
+🛠 Technologies Used
+🧱 HTML5 — for structured, semantic markup
+
+🎨 CSS3 — for layout, design, and responsiveness
+
+🚫 No frameworks or JavaScript — pure front-end styling practice
+##
+
+🎥 Live Demo
+🔗 [[Insert your demo link here](https://drive.google.com/file/d/1ZxrvZql0c5YEEwXjjlJJZ6V-yHA3DD2F/view?usp=drive_link)] 
 
 ##
 
-🔍 Features
-* Fully responsive landing page layout
+🎯 Purpose
+This project was built for learning and portfolio development. It focuses on:
 
-* Header with navigation bar and logo
+📐 Practicing layout techniques
 
-* Hero section with banner image
+🔤 Using semantic HTML
 
-* Product category cards styled with CSS
+💅 Writing clean and maintainable CSS
 
-* Footer with links (non-functional)
-
-
-
-##
-
-
-
-
-🛠️ Technologies Used
-* HTML5
-
-* CSS3 (no frameworks)
-
-
-
-  ##
-  📹 Demo
-
-
-
-[Project Demo](https://drive.google.com/file/d/1ZxrvZql0c5YEEwXjjlJJZ6V-yHA3DD2F/view?usp=drive_link)
-
-
+⚠️ Note: This is a static project — no interactivity, backend, or actual product data is included.
 ##
 
 🎯 Purpose
